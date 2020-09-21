@@ -1,16 +1,22 @@
-### Hi there 👋
+<samp>
 
-<!--
-**karolinedealencar/karolinedealencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Karol 👋
 
-Here are some ideas to get you started:
+Web Developer at [@fliperdev](https://github.com/fliperdev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌼 Skills:
+
+<p>HTML / CSS</p>
+<p>JavaScript</p>
+<p>NodeJS</p>
+<p>MongoDB</p>
+<p>Git</p>
+
+📫 How to reach me: 
+
+<p>https://karolinealencar.com/</p>
+<p>https://twitter.com/karoldalencar</p>
+<p>https://www.linkedin.com/in/karolinedealencar/</p>
+<p>https://www.twitch.tv/kakkau</p>
+  
+</samp>
