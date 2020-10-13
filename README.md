@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Karol 👋
 
-Web Developer at [@fliperdev](https://github.com/fliperdev)
+Web Developer 
 
 ### 🌼 Skills:
 
