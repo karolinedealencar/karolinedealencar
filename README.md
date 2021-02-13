@@ -4,14 +4,6 @@
 
 Web Developer 
 
-### 🌼 Skills:
-
-<p>HTML / CSS</p>
-<p>JavaScript</p>
-<p>NodeJS</p>
-<p>MongoDB</p>
-<p>Git</p>
-
 ### 📫 How to reach me: 
 
 <p>https://karolinealencar.com/</p>
