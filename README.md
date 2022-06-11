@@ -6,7 +6,7 @@ Web Developer
 
 ### 📫 How to reach me: 
 
-<p>https://karolinealencar.netlify.app/</p>
+<p>https://dev.to/karolinedealencar</p>
 <p>https://www.linkedin.com/in/karolinedealencar/</p>
   
 </samp>
