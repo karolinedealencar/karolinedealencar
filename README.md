@@ -7,7 +7,7 @@
 
 I started in technology at the end of 2016 as a web frontend and since 2019 I am exploring the backend world, focusing on nodejs. 
   
-I love learning new things and am always looking to improve my hard and soft skills. Here on my profile you can find some of my studies and projects, feel free to contact me on linkedin or by email. =^.^=
+I love learning new things and am always looking to improve my hard and soft skills, here on my profile you can find some of my studies and projects, hope u enjoy it =)
 
 
 ### 📫 How to reach me: 
