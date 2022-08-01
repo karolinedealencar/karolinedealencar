@@ -1,8 +1,8 @@
 <samp>
 
-## 👋 Hi there, I'm Karol!
+## 🌸 Hi there, I'm Karol!
   
-![Pikachu hi](https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif)
+![Happy from Fairy Tail](https://i0.wp.com/media.giphy.com/media/TF9z8Id4LJru8/giphy.gif)
 
 
 I started in technology at the end of 2016 as a web frontend and since 2019 I am exploring the backend world, focusing on nodejs. 
